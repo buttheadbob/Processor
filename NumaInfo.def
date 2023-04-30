@@ -1,0 +1,3 @@
+LIBRARY NumaInfo
+EXPORTS
+    GetNumaNodeInformation
